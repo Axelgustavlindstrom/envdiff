@@ -16,6 +16,10 @@ This is useful for:
 - Detecting drift between local and production environment files
 - CI checks that fail when environment files diverge
 
+## Repository
+
+- GitHub: https://github.com/Axelgustavlindstrom/envdiff
+
 ## Installation
 
 ```bash
